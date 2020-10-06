@@ -1,2 +1,2 @@
-# NasaPotD
-Picture of the day from NASA api
+# NASAPotD
+Picture of the day using NASA api
